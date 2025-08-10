@@ -64,7 +64,7 @@ export const Navbar = () => {
           transition={{duration: 1}}
           style={{maxHeight: "100vh"}}
         >
-          <nav className="pb-5">
+          <nav className="pb-20">
             <Navigation />
           </nav>
         </motion.div>
