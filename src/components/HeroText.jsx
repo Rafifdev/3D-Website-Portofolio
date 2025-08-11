@@ -61,7 +61,7 @@ export const HeroText = () => {
           animate="visible"
           transition={{ delay: 0.4 }}
         >
-          Hi, I'am Yoapipp
+          Hi, I'm Yoapipp
         </motion.p>
         <div>
           <motion.p
