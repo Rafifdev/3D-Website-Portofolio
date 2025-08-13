@@ -254,7 +254,7 @@ export const mySocials = [
   },
   {
     name: "Instagram",
-    href: "https://www.instagram.com/yoapipp",
+    href: "#",
     icon: "/assets/socials/instagram.svg",
   },
 ];
