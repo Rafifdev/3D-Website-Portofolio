@@ -101,23 +101,107 @@ export const myProjects = [
       },
     ],
   },
-];
-
-export const mySocials = [
   {
-    name: "WhatsApp",
+    id: 4,
+    title: "Lorem Ipsum",
+    description:
+      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Saepe commodi eligendi ",
+    subDescription: [
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo, consectetur.",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, eum. Voluptatum voluptas nisi sint magnam saepe minus. Est adipisci a voluptatem, quos tempora ipsa omnis vero impedit, velit rem nisi.",
+    ],
     href: "#",
-    icon: "/assets/socials/whatsApp.svg",
+    image: "/assets/projects/portofolio.png",
+    tags: [
+      {
+        id: 1,
+        name: "React JS",
+        path: "/assets/logos/react.svg",
+      },
+      {
+        id: 2,
+        name: "TailwindCSS",
+        path: "/assets/logos/tailwindcss.svg",
+      },
+      {
+        id: 3,
+        name: "Vite JS",
+        path: "/assets/logos/vitejs.svg",
+      },
+      {
+        id: 4,
+        name: "Javascript",
+        path: "/assets/logos/javascript.svg",
+      },
+    ],
   },
   {
-    name: "Linkedin",
+    id: 5,
+    title: "Lorem Ipsum",
+    description:
+      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Saepe commodi eligendi ",
+    subDescription: [
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo, consectetur.",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, eum. Voluptatum voluptas nisi sint magnam saepe minus. Est adipisci a voluptatem, quos tempora ipsa omnis vero impedit, velit rem nisi.",
+    ],
     href: "#",
-    icon: "/assets/socials/linkedIn.svg",
+    image: "/assets/projects/portofolio.png",
+    tags: [
+      {
+        id: 1,
+        name: "React JS",
+        path: "/assets/logos/react.svg",
+      },
+      {
+        id: 2,
+        name: "TailwindCSS",
+        path: "/assets/logos/tailwindcss.svg",
+      },
+      {
+        id: 3,
+        name: "Vite JS",
+        path: "/assets/logos/vitejs.svg",
+      },
+      {
+        id: 4,
+        name: "Javascript",
+        path: "/assets/logos/javascript.svg",
+      },
+    ],
   },
   {
-    name: "Instagram",
-    href: "https://www.instagram.com/yoapipp",
-    icon: "/assets/socials/instagram.svg",
+    id: 6,
+    title: "Lorem Ipsum",
+    description:
+      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Saepe commodi eligendi ",
+    subDescription: [
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo, consectetur.",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, eum. Voluptatum voluptas nisi sint magnam saepe minus. Est adipisci a voluptatem, quos tempora ipsa omnis vero impedit, velit rem nisi.",
+    ],
+    href: "#",
+    image: "/assets/projects/portofolio.png",
+    tags: [
+      {
+        id: 1,
+        name: "React JS",
+        path: "/assets/logos/react.svg",
+      },
+      {
+        id: 2,
+        name: "TailwindCSS",
+        path: "/assets/logos/tailwindcss.svg",
+      },
+      {
+        id: 3,
+        name: "Vite JS",
+        path: "/assets/logos/vitejs.svg",
+      },
+      {
+        id: 4,
+        name: "Javascript",
+        path: "/assets/logos/javascript.svg",
+      },
+    ],
   },
 ];
 
@@ -156,6 +240,25 @@ export const experiences = [
     ],
   },
 ];
+
+export const mySocials = [
+  {
+    name: "WhatsApp",
+    href: "#",
+    icon: "/assets/socials/whatsApp.svg",
+  },
+  {
+    name: "Linkedin",
+    href: "#",
+    icon: "/assets/socials/linkedIn.svg",
+  },
+  {
+    name: "Instagram",
+    href: "https://www.instagram.com/yoapipp",
+    icon: "/assets/socials/instagram.svg",
+  },
+];
+
 export const reviews = [
   {
     name: "Jack",

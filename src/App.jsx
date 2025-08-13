@@ -1,8 +1,9 @@
-import React from 'react'
 import { Navbar } from './sections/Navbar'
 import { Hero } from './sections/Hero'
 import About from './sections/About'
 import Projects from './sections/Projects'
+import Experiences from './sections/Experiences'
+import Testimonial from './sections/Testimonial'
 
 function App() {
   return (
@@ -11,9 +12,9 @@ function App() {
       <Hero/>
       <About />
       <Projects/>
-      <section className='min-h-screen'></section>
-      {/*experience*/}
-      {/*testimonials*/}
+      <Experiences />
+      <Testimonial />
+      <div className='min-h-screen'></div>
       {/*contact*/}
       {/*footer*/}
     </div>
