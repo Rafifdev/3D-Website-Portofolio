@@ -1,20 +1,14 @@
-Of course. Here is a professionally formatted README.md for your project, written in English.
-
-You can copy and paste this directly into your `README.md` file.
-
------
-
-\<br/\>
-\<div align="center"\>
-\<h1 align="center"\>3D Portfolio Website\</h1\>
-\<p align="center"\>
+<br/\>
+<div align="center"\>
+<h1 align="center"\>3D Portfolio Website\</h1\>
+<p align="center"\>
 An interactive developer portfolio built with 3D technologies using React, Three.js, and Framer Motion.
-\<br /\>
-\<br /\>
-\</p\>
-\</div\>
+<br /\>
+<br /\>
+</p\>
+</div\>
 
-\<br/\>
+<br/\>
 
 ## 📜 Description
 
@@ -84,8 +78,8 @@ Contributions, issues, and feature requests are welcome\! Feel free to check the
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-\<br/\>
-\<p align="center"\>Made with ❤️ by Rafif\</p\>
+<br/\>
+<p align="center"\>Made with ❤️ by Rafif\</p\>
 
 1.  **Screenshot**: Take a screenshot of your website's home page, save it as `screenshot.png` in the main directory of the repository, and the preview image will appear.
 2.  **Live Demo**: Once you deploy your website (e.g., on Vercel, Netlify, or GitHub Pages), replace the `#` link in the `View Live Demo` section with your live website URL.
