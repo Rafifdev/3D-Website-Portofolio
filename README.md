@@ -1,14 +1,11 @@
-<br/\>
 <div align="center"\>
-<h1 align="center"\>3D Portfolio Website\</h1\>
+<h1 align="center"\>3D Portfolio Website</h1\>
 <p align="center"\>
 An interactive developer portfolio built with 3D technologies using React, Three.js, and Framer Motion.
 <br /\>
 <br /\>
 </p\>
 </div\>
-
-<br/\>
 
 ## 📜 Description
 
@@ -69,17 +66,6 @@ To run this project in your local environment, follow these steps:
     ```sh
     npm run build
     ```
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome\! Feel free to check the [issues page](https://www.google.com/search?q=https://github.com/Rafifdev/3D-Website-Portofolio/issues) if you want to contribute.
-
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-<br/\>
-<p align="center"\>Made with ❤️ by Rafif\</p\>
-
-1.  **Screenshot**: Take a screenshot of your website's home page, save it as `screenshot.png` in the main directory of the repository, and the preview image will appear.
-2.  **Live Demo**: Once you deploy your website (e.g., on Vercel, Netlify, or GitHub Pages), replace the `#` link in the `View Live Demo` section with your live website URL.
+    
+<br/>
+<p align="center"\><b>Made with ❤️ by Yoapipp</b></p\>
