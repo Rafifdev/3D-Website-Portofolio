@@ -5,21 +5,21 @@ import Projects from './sections/Projects'
 import Experiences from './sections/Experiences'
 import Testimonial from './sections/Testimonial'
 import Footer from './sections/Footer'
+import Contact from './sections/Contact'
 
 function App() {
   
   return (
     
-    <div className='container mx-auto max-w-7xl'>
+    <div className='container mx-auto max-w-7xl select-none'>
       <Navbar/>
       <Hero/>
       <About />
       <Projects/>
       <Experiences />
       <Testimonial />
-      <div className='min-h-screen'/>
+      <Contact />
       <Footer/>
-      {/*contact*/}
     </div>
   )
 }
